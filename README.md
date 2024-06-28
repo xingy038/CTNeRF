@@ -20,7 +20,7 @@ The code is test with
 
 To get started, please create the conda environment `ctnerf` by running
 ```
-conda create --name dnerf python=3.7
+conda create --name ctnerf python=3.7
 conda activate ctnerf
 conda install pytorch=1.6.0 torchvision=0.7.0 cudatoolkit=10.1 matplotlib tensorboard scipy opencv -c pytorch
 pip install imageio scikit-image configargparse timm lpips
