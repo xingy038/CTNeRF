@@ -84,14 +84,16 @@ python evaluation.py
 
 If you find this code useful for your research, please consider citing the following paper:
 
-	@misc{miao2024ctnerfcrosstimetransformerdynamic,
-      title={CTNeRF: Cross-Time Transformer for Dynamic Neural Radiance Field from Monocular Video}, 
-      author={Xingyu Miao and Yang Bai and Haoran Duan and Yawen Huang and Fan Wan and Yang Long and Yefeng Zheng},
-      year={2024},
-      eprint={2401.04861},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2401.04861}, 
+@article{MIAO2024110729,
+title = {CTNeRF: Cross-time Transformer for dynamic neural radiance field from monocular video},
+journal = {Pattern Recognition},
+pages = {110729},
+year = {2024},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2024.110729},
+url = {https://www.sciencedirect.com/science/article/pii/S0031320324004801},
+author = {Xingyu Miao and Yang Bai and Haoran Duan and Fan Wan and Yawen Huang and Yang Long and Yefeng Zheng},
+keywords = {Dynamic neural radiance field, Monocular video, Scene flow, Transformer}
 }
 
 ## Acknowledgments
