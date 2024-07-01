@@ -83,7 +83,7 @@ python evaluation.py
 
 
 If you find this code useful for your research, please consider citing the following paper:
-
+、、、
 @article{MIAO2024110729,
 title = {CTNeRF: Cross-time Transformer for dynamic neural radiance field from monocular video},
 journal = {Pattern Recognition},
@@ -95,6 +95,7 @@ url = {https://www.sciencedirect.com/science/article/pii/S0031320324004801},
 author = {Xingyu Miao and Yang Bai and Haoran Duan and Fan Wan and Yawen Huang and Yang Long and Yefeng Zheng},
 keywords = {Dynamic neural radiance field, Monocular video, Scene flow, Transformer}
 }
+、、、
 
 ## Acknowledgments
 Our training code is build upon
