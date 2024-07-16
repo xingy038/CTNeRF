@@ -13,16 +13,16 @@
 The code is test with
 * Linux 
 * Anaconda 3
-* Python 3.7.11
-* CUDA 10.1
+* Python 3.8
+* CUDA 11.8
 * 2 3090 GPU
 
 
 To get started, please create the conda environment `ctnerf` by running
 ```
-conda create --name ctnerf python=3.7
+conda create --name ctnerf python=3.8
 conda activate ctnerf
-conda install pytorch=1.6.0 torchvision=0.7.0 cudatoolkit=10.1 matplotlib tensorboard scipy opencv -c pytorch
+conda install pytorch=1.13.1 torchvision=0.14.1 cudatoolkit=11.8 matplotlib tensorboard scipy opencv -c pytorch
 pip install imageio scikit-image configargparse timm lpips
 ```
 and install [COLMAP](https://colmap.github.io/install.html) manually. Then download MiDaS and RAFT weights
